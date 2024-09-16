@@ -1,0 +1,37 @@
+baseURL: https://solidradio.co.uk/
+languageCode: en-gb
+title: Solid Radio
+
+module:
+  proxy: direct
+  hugoVersion:
+    extended: true
+    min: "0.73.0"
+  imports:
+    path: "github.com/google/docsy"
+    disable: false
+
+contentDir: content/en
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+enableMissingTranslationPlaceholders: true
+
+languages:
+  en:
+    languageName: English
+    title: Solid Radio
+
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+    renderer:
+      unsafe: true
+  highlight:
+    # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
+    style: tango
+    # Uncomment if you want your chosen highlight style used for code blocks without a specified language
+    # guessSyntax: true
