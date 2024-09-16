@@ -1,5 +1,6 @@
 ---
-title: Solid Radio
+title: Home
+menu: {main: {weight: 10}}
 ---
 
 {{< blocks/cover title="Welcome to Solid Radio, the home of A Wee Natter!" image_anchor="top" height="full" >}}
