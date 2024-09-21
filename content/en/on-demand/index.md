@@ -1,6 +1,7 @@
 ---
 title: Catch Up
 linkTitle: Catch Up
+descritption: Catch up with A Wee Natter on demand in your own time!
 menu: {main: {weight: 100}}
 ---
 

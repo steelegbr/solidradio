@@ -1,6 +1,7 @@
 ---
 title: Listen Live
 linkTitle: Listen Live
+description: Stop by for A Wee Natter live from 7pm on Sundays.
 menu: {main: {weight: 10}}
 ---
 

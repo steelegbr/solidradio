@@ -1,6 +1,7 @@
 ---
 title: Syndication
 linkTitle: Syndication
+description: Stop by for A Wee Natter on your radio station!
 menu: {main: {weight: 100}}
 ---
 

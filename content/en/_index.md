@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Welcome to Solid Radio, the home of A Wee Natter!
 menu: {main: {weight: 10}}
 ---
 
